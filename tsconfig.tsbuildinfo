@@ -1,0 +1,1 @@
+{"root":["./src/index.ts","./src/config/db.ts","./src/routes/authRouter.ts","./src/types/index.ts","./src/utils/handleError.ts"],"version":"5.8.2"}
