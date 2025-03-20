@@ -1,1 +1,1 @@
-{"root":["./src/index.ts","./src/config/db.ts","./src/middleware/index.ts","./src/routes/authRouter.ts","./src/routes/todoRouter.ts","./src/types/index.ts","./src/utils/handleError.ts"],"version":"5.8.2"}
+{"root":["./src/index.ts","./src/config/db.ts","./src/middleware/index.ts","./src/routes/authRouter.ts","./src/routes/todoRouter.ts","./src/types/authTypes.ts","./src/types/todoTypes.ts","./src/utils/handleError.ts"],"version":"5.8.2"}

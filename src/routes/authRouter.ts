@@ -1,5 +1,5 @@
 import express from "express";
-import { signInTypes, signUpTypes } from "../types";
+import { signInTypes, signUpTypes } from "../types/authTypes";
 import { handleError } from "../utils/handleError";
 import { prisma } from "../config/db";
 import bcrypt from "bcryptjs"
